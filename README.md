@@ -1,5 +1,7 @@
 # fhir-api-quicktools
 
+fhir-teardown - will delete all the resources in the Azure API for FHIR instance. Warning: this should only be used for dev/learning purposes. It makes it much faster than redeployment. 
+
 ## Installation
 
 set the following env variables:
